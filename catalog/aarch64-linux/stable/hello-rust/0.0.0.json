@@ -69,15 +69,15 @@
       "lastModified": 1663864832,
       "narHash": "sha256-wKdSRVgXSsDWXgRQsIyMsSXmvNuJ6hPHz0dG7+fyaOI=",
       "type": "git",
-      "url": "file:///hello-rust"
+      "url": "file:///hello-rust/hello-rust"
     },
     "original": {
       "type": "git",
-      "url": "file:///hello-rust"
+      "url": "file:///hello-rust/hello-rust"
     },
     "remote": {
       "type": "git",
-      "url": "file:///hello-rust"
+      "url": "file:///hello-rust/hello-rust"
     }
   }
 }

@@ -8,7 +8,7 @@
     ],
     "originalUrl": null,
     "storePaths": [
-      "/nix/store/9nkgywd7vn611qpbnqhmdxf5y4n1a2jg-hello-rust-0.0.0"
+      "/nix/store/6m9zkx811w0kc2wn1pqlvrjqn79rds7f-hello-rust-0.0.0"
     ],
     "url": null
   },
@@ -17,7 +17,7 @@
       "aarch64-linux",
       "hello-rust"
     ],
-    "drvPath": "/nix/store/im1148dyfg3lqnxm0wdghdv3scakmlqs-hello-rust-0.0.0.drv",
+    "drvPath": "/nix/store/4d1ywxvqfh6zq9s7i5glfy0nqz2pdrp4-hello-rust-0.0.0.drv",
     "meta": {
       "available": true,
       "broken": false,
@@ -48,7 +48,7 @@
         "aarch64-darwin",
         "armv7a-darwin"
       ],
-      "position": "/nix/store/6h4d9n903jznp85kmnxkmxmbr12yj84j-source/pkgs/hello-rust/default.nix:14",
+      "position": "/nix/store/32bdb1xaaq8fv8lds7bbcr24akbh5h33-source/pkgs/hello-rust/default.nix:14",
       "unfree": false,
       "unsupported": false
     },
@@ -57,7 +57,7 @@
       "hello-rust"
     ],
     "outputs": {
-      "out": "/nix/store/9nkgywd7vn611qpbnqhmdxf5y4n1a2jg-hello-rust-0.0.0"
+      "out": "/nix/store/6m9zkx811w0kc2wn1pqlvrjqn79rds7f-hello-rust-0.0.0"
     },
     "pname": "hello-rust",
     "system": "aarch64-linux",
@@ -67,7 +67,7 @@
   "source": {
     "locked": {
       "lastModified": 1663864832,
-      "narHash": "sha256-lQDAlFYGc5ng4G4D9xeoxrzkwIrjFcBe6zGRp8gXekg=",
+      "narHash": "sha256-Y99v1QdevZZpYTFWlLlCNWovlAY2xYBYNw3OHOzPGOY=",
       "type": "git",
       "url": "file:///hello-rust"
     },
